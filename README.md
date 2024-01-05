@@ -1,5 +1,7 @@
 # Tableau Dashboard - FRIENDS TV Series Analysis
 
+
+
 ## Overview
 This Tableau dashboard provides a comprehensive analysis of the popular TV series "FRIENDS." It covers various aspects such as seasons, episodes, years, duration, total stars, total votes, directors, descriptions, total episodes by season, total stars by season and episodes, and total votes by season and episodes.
 
