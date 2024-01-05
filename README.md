@@ -1,5 +1,6 @@
 # Tableau Dashboard - FRIENDS TV Series Analysis
 
+![Dashboard 1](https://github.com/SnehShah17/FRIENDS_Tableau_Dashboard/assets/75317219/329e2c8f-6c86-43f9-bb6c-cdad1cfd8195)
 
 
 ## Overview
